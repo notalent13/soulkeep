@@ -1,4 +1,8 @@
 # Soulkeep
+![GitHub release](https://img.shields.io/github/v/release/notalent13/soulkeep)
+![License](https://img.shields.io/github/license/notalent13/soulkeep)
+![Node.js](https://img.shields.io/badge/node.js-18%2B-green)
+![GitHub stars](https://img.shields.io/github/stars/notalent13/soulkeep)
 
 Soulkeep turns ListenBrainz `.jspf` playlists into clean music folders using Soulseek and `slskd`.
 
