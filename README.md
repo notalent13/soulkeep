@@ -162,6 +162,13 @@ Use `.env.example` for public configuration.
 
 
 
+## Support
+
+If Soulkeep helps you build and maintain your music library, consider supporting future development:
+
+https://ko-fi.com/notalent13
+
+
 ## License
 
 GPL-3.0-or-later.
