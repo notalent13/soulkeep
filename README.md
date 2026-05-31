@@ -74,7 +74,7 @@ This protects your final library from duplicate files, bad fuzzy matches, late S
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/soulkeep.git
+git clone https://github.com/notalent13/soulkeep.git
 cd soulkeep
 npm install
 cp .env.example .env
