@@ -1,0 +1,35 @@
+{
+  "name": "soulkeep",
+  "version": "0.1.0",
+  "description": "Turn ListenBrainz JSPF playlists into clean music folders using Soulseek and slskd.",
+  "type": "module",
+  "main": "src/download-jspf.mjs",
+  "scripts": {
+    "start": "node src/download-jspf.mjs",
+    "check": "node --check src/download-jspf.mjs"
+  },
+  "keywords": [
+    "soulseek",
+    "slskd",
+    "listenbrainz",
+    "jspf",
+    "jellyfin",
+    "playlist",
+    "music",
+    "metadata"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notalent13/soulkeep.git"
+  },
+  "homepage": "https://github.com/notalent13/soulkeep",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-id3": "^0.2.9"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

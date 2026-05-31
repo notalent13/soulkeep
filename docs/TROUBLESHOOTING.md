@@ -1,0 +1,1 @@
+# Troubleshooting\n\nMost issues are caused by incorrect API settings or download paths.

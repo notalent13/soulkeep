@@ -1,0 +1,1 @@
+# Jellyfin\n\nPoint Jellyfin to your final music folder and prefer local metadata when possible.

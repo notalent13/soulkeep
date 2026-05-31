@@ -1,0 +1,23 @@
+# Secrets
+.env
+environment.env
+*.local
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+output.log
+npm-debug.log*
+
+# Generated/runtime files
+manifest*.json
+*.tmp
+.DS_Store
+
+# Music/download folders that should never be committed
+/downloads/
+/music/
+/final/
+/staging/
