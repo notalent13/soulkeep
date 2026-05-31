@@ -1,17 +1,3 @@
-## Example workflow
-
-### 1. ListenBrainz playlist
-
-![ListenBrainz Playlist](assets/listenbrainz-playlist.png)
-
-### 2. Soulkeep processing
-
-![Soulkeep Terminal](assets/soulkeep-terminal.png)
-
-### 3. Final music folder
-
-![Final Music Folder](assets/final-music-folder.png)
-
 # Soulkeep
 
 ![GitHub release](https://img.shields.io/github/v/release/notalent13/soulkeep)
@@ -125,6 +111,22 @@ node src/download-jspf.mjs "/path/to/playlist.jspf"
 * [Usage](docs/USAGE.md)
 * [Jellyfin notes](docs/JELLYFIN.md)
 * [Troubleshooting](docs/TROUBLESHOOTING.md)
+
+
+
+## Example workflow
+
+### 1. ListenBrainz playlist
+
+![ListenBrainz Playlist](assets/listenbrainz-playlist.png)
+
+### 2. Soulkeep processing
+
+![Soulkeep Terminal](assets/soulkeep-terminal.png)
+
+### 3. Final music folder
+
+![Final Music Folder](assets/final-music-folder.png)
 
 
 
